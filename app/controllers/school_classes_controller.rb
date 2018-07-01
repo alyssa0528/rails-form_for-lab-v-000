@@ -1,2 +1,2 @@
-class SchoolClassesController < ActiveRecord::Base
-end 
+class SchoolClassesController < ApplicationController
+end
